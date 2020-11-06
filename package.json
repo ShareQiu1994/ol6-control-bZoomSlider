@@ -1,0 +1,20 @@
+{
+  "name": "ol6-control-bzoomslider",
+  "version": "0.0.2",
+  "description": "openlayers zoomslider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openlayers",
+    "map",
+    "zoomslider"
+  ],
+  "dependencies": {
+    "nature-dom-util": "^1.1.0",
+    "ol": "^6.2.1"
+  },
+  "author": "shareQiu1994 421419567@qq.com",
+  "license": "ISC"
+}
