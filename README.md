@@ -20,7 +20,7 @@ new Map({
 npm install ol6-control-bzoomslider --save
 import BZoomSliderControl from 'ol6-control-bzoomslider'
 
-map.addControl(BZoomSliderControl())
+map.addControl(new BZoomSliderControl())
 ```
 
 ## Examples
